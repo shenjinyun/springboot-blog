@@ -1,0 +1,6 @@
+2022-03-12 21:12:16.145  INFO 9624 --- [restartedMain] com.joey.blog.BlogApplication            : Starting BlogApplication using Java 1.8.0_301 on LAPTOP-933F4D1S with PID 9624 (C:\Users\shenjinyun\Desktop\blog\target\classes started by Lenovo-中科大厦 in C:\Users\shenjinyun\Desktop\blog)
+2022-03-12 21:12:16.147 DEBUG 9624 --- [restartedMain] com.joey.blog.BlogApplication            : Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-12 21:12:16.148  INFO 9624 --- [restartedMain] com.joey.blog.BlogApplication            : The following 1 profile is active: "pro"
+2022-03-12 21:12:19.349  WARN 9624 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-03-12 21:12:19.703  WARN 9624 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-12 21:12:19.925  INFO 9624 --- [restartedMain] com.joey.blog.BlogApplication            : Started BlogApplication in 4.744 seconds (JVM running for 6.733)
